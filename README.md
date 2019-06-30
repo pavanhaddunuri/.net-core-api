@@ -9,6 +9,7 @@ This uses:
 2. EF Core
 3. AutoMapper
 4. Swagger
+5. NLog
 
 Following will be done as part of this project:
 
