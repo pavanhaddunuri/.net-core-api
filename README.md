@@ -3,6 +3,13 @@
 This is my sample application to learn .net core api.
 I am trying to create a API on Northwind database. 
 
+This uses:
+
+.Net Core
+EF Core
+AutoMapper
+Swagger
+
 Following will be done as part of this project:
 
 1. Authentication
