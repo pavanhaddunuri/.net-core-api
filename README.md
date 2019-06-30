@@ -5,10 +5,10 @@ I am trying to create a API on Northwind database.
 
 This uses:
 
-.Net Core
-EF Core
-AutoMapper
-Swagger
+1. .Net Core
+2. EF Core
+3. AutoMapper
+4. Swagger
 
 Following will be done as part of this project:
 
