@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj": {}
+    "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.Logger\\Northwind.Logger.csproj": {}
   },
   "projects": {
-    "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj": {
+    "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.Logger\\Northwind.Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj",
-        "projectName": "Northwind.DAL",
-        "projectPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj",
+        "projectUniqueName": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.Logger\\Northwind.Logger.csproj",
+        "projectName": "Northwind.Logger",
+        "projectPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.Logger\\Northwind.Logger.csproj",
         "packagesPath": "C:\\Users\\Saharsh\\.nuget\\packages\\",
-        "outputPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\obj\\",
+        "outputPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.Logger\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,19 +41,15 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[2.2.4, )"
-            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.5.1, )"
             }
           },
           "imports": [

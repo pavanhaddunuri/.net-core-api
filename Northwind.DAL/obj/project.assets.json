@@ -3076,11 +3076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Pavan\\PR\\Read\\Github\\.net-core-api\\Northwind.DAL\\Northwind.DAL.csproj",
+      "projectUniqueName": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj",
       "projectName": "Northwind.DAL",
-      "projectPath": "D:\\Pavan\\PR\\Read\\Github\\.net-core-api\\Northwind.DAL\\Northwind.DAL.csproj",
+      "projectPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\Northwind.DAL.csproj",
       "packagesPath": "C:\\Users\\Saharsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Pavan\\PR\\Read\\Github\\.net-core-api\\Northwind.DAL\\obj\\",
+      "outputPath": "D:\\Pavan\\PR\\Read\\Github\\Northwind.DotnetCore.API\\Northwind.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

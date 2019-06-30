@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DotnetCore.API", "Northwind.DotnetCore.API\Northwind.DotnetCore.API.csproj", "{2D0388C5-F374-4BA9-A0BB-C0EA0A6D659B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.DotnetCore.API", "Northwind.DotnetCore.API\Northwind.DotnetCore.API.csproj", "{2D0388C5-F374-4BA9-A0BB-C0EA0A6D659B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.DAL", "Northwind.DAL\Northwind.DAL.csproj", "{EC4BB2F0-59BB-4597-B707-BEB0A7635845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.DAL", "Northwind.DAL\Northwind.DAL.csproj", "{EC4BB2F0-59BB-4597-B707-BEB0A7635845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Logger", "Northwind.Logger\Northwind.Logger.csproj", "{DAD8F9BB-E263-4EBB-838C-29D391855BB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EC4BB2F0-59BB-4597-B707-BEB0A7635845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC4BB2F0-59BB-4597-B707-BEB0A7635845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC4BB2F0-59BB-4597-B707-BEB0A7635845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD8F9BB-E263-4EBB-838C-29D391855BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD8F9BB-E263-4EBB-838C-29D391855BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD8F9BB-E263-4EBB-838C-29D391855BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD8F9BB-E263-4EBB-838C-29D391855BB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

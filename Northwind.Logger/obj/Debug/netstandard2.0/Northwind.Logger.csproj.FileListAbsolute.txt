@@ -1,0 +1,9 @@
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\bin\Debug\netstandard2.0\Northwind.Logger.deps.json
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\bin\Debug\netstandard2.0\Northwind.Logger.dll
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.csprojAssemblyReference.cache
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.csproj.CoreCompileInputs.cache
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.AssemblyInfoInputs.cache
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.AssemblyInfo.cs
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\bin\Debug\netstandard2.0\Northwind.Logger.pdb
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.dll
+D:\Pavan\PR\Read\Github\Northwind.DotnetCore.API\Northwind.Logger\obj\Debug\netstandard2.0\Northwind.Logger.pdb
